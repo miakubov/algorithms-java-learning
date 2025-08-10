@@ -1,12 +1,12 @@
-#Запуск из каталога src
+# Запуск из каталога src
 
 
-#Компиляция:
+# Компиляция:
 
 `javac main/java/edu/algs/findminmax/util/MinMaxUtil.java main/java/edu/algs/findminmax/Main.java`
 
 
-#Запуск:
+# Запуск:
 
 `java -cp main/java edu.algs.findminmax.Main`
 

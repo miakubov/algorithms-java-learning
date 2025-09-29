@@ -3,7 +3,7 @@
 
 # Компиляция:
 
-`javac main/java/edu/algs/intOOP/{Main.java,util/*.java}`
+`javac main/java/edu/algs/intOOP/Main.java`
 
 
 # Запуск:
